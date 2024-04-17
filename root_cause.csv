@@ -246,6 +246,3 @@ Under some circumstances, certain format client-side alerts sent to the BIG-IP v
 Impact
 
 A remote attacker may be able to perform a denial-of-service (DoS) attack on a BIG-IP system by causing the TMM process to restart.",certain format client-side alerts sent to the BIG-IP virtual server configured with DataSafe,1
-1,2,3,4,5,
-16,8,4,11,0,
-¹²¼Æ£º,39,,,,

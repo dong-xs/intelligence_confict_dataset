@@ -833,6 +833,3 @@ Denial of Service by preventing Ozeki from starting and/or accessing advanced fu
 Remote Code Execution if an attacker can bypass the ""Bad Char"" restrictions
 Overwrite important EXEs, DLLs, LOGs and/or configuration files used by the OS in ""C:\Windows"" and subdirectories (if Ozeki is also installed on ""C:"")
 Requirements:",AutoReply script file name field,2
-1,2,3,4,5,
-44,4,23,11,11,
-×Ü¼Æ£º,93,,,,

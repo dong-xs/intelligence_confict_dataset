@@ -1081,7 +1081,3 @@ Multiple NetApp products incorporate Linux kernel. Linux kernel versions prior t
 
 Impact
 Successful exploitation of this vulnerability could lead to disclosure of sensitive information, addition or modification of data, or Denial of Service (DoS).",prior to 5.8,2
-1,2,3,4,5,
-34,23,36,23,0,
-,,,,,
-¹²¼Æ£º,116,,,,
